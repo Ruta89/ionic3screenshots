@@ -1,3 +1,18 @@
 page-home {
-
+  ion-content {
+    background: #233b3b !important;
+    text-align: center;
+  }
+  .newBG {
+    background: #4c6e6e !important;
+  }
+  button {
+    color: #1fb5b5 !important;
+    border: 1px solid #1fb5b5 !important;
+  }
+  img {
+    border: 5px solid #365454;
+    width: 70%;
+    margin-top: 3em;
+  }
 }
